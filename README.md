@@ -12,3 +12,5 @@
 [![Unit testing](https://github.com/Swathi2709/Swathi-M/actions/workflows/unit_test.yml/badge.svg)](https://github.com/Swathi2709/Swathi-M/actions/workflows/unit_test.yml)
 
 [![Code grade](https://www.code-inspector.com/project/25053/score/svg)](https://frontend.code-inspector.com/public/project/25053/Swathi-M/dashboard)
+
+[![Code grade](https://www.code-inspector.com/project/25053/status/svg)](https://frontend.code-inspector.com/public/project/25053/Swathi-M/dashboard)
